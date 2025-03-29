@@ -1,0 +1,8 @@
+什么是 ide
+之前用记事本 的缺点
+常见的 ide
+idea eclipse vscode
+强调 java 开发  idea 就是神
+
+冷知识历史上存在能够执行运行字节码的 cpu java Jazelle DBX
+
